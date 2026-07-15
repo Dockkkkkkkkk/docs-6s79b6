@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-c26vt2.cnkitabos.live/sitemap.xml
